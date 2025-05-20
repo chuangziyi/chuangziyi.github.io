@@ -46,10 +46,12 @@ section#about.resume-section{
 
 .chloeserif{
   font-family: "Noto Serif TC", serif;
+  width: 50%;
 }
 
 .chloehl{
     color: red;
+    font-weight: 900;
 }
 
 .chloecallmebg{
