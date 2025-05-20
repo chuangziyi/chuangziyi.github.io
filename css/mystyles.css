@@ -1,0 +1,45 @@
+p {
+    color:black;
+}
+
+．conan {
+    background-color: antiquewhite;
+}
+
+a.chloelink { 
+    padding:0px 10px;
+    margin:15px 5px;
+    border-radius: 50px;
+    color:cornflowerblue;
+}
+
+
+a.chloelink:hover {
+    background-color:cornflowerblue;
+    color: white;
+}
+
+div.chloedivgrey {
+    background-color:#FFFFF4;
+    padding:30px;
+    border-radius: 10px;
+    border:2px solid grey;
+}
+
+h4.chloesmall {
+    font-size: 20px;
+}
+
+section#about.resume-section{
+    background-color:#FFFFF4;
+    border-radius: 30px;
+    color:cornflowerblue;
+}
+
+.chloecrop{
+    height:400px;
+    overflow:hidden;
+    object-fit:cover;
+    margin:10px 5px;
+    border-radius: 20px;
+}
