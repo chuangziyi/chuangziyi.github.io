@@ -4825,7 +4825,7 @@ textarea.form-control-lg {
   z-index: 1;
   color: var(--bs-list-group-action-hover-color);
   text-decoration: none;
-  background-color: var(--bs-list-group-action-hover-bg);
+  background-color:	#FFFFF4;
 }
 .list-group-item-action:active {
   color: var(--bs-list-group-action-active-color);
@@ -4838,7 +4838,7 @@ textarea.form-control-lg {
   padding: var(--bs-list-group-item-padding-y) var(--bs-list-group-item-padding-x);
   color: var(--bs-list-group-color);
   text-decoration: none;
-  background-color: var(--bs-list-group-bg);
+  background-color:	#FFFFF4;
   border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color);
 }
 .list-group-item:first-child {
@@ -4857,8 +4857,8 @@ textarea.form-control-lg {
 .list-group-item.active {
   z-index: 2;
   color: var(--bs-list-group-active-color);
-  background-color: var(--bs-list-group-active-bg);
-  border-color: var(--bs-list-group-active-border-color);
+  background-color:#99CCFF;
+  border-color:#99CCFF;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color:	#84C1FF;
 }
 
 .dev-icons {
