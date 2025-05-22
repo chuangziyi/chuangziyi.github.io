@@ -47,7 +47,7 @@ section#about.resume-section{
 .chloeserif{
   font-family: "Noto Serif TC", serif;
   font-weight: 900;
-  width: 50%;
+  width:60%;
 }
 
 .chloehl{
@@ -59,4 +59,8 @@ section#about.resume-section{
     background-image: url("../assets/img/callmebg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.chloeth{
+    font-size: 150%;
 }
